@@ -47,8 +47,9 @@ img:hover {
 }
 
 .column-1 {
-  display: inline;
+  display: inline-block;
   box-sizing: border-box;
+  vertical-align: top;
 }
 
 .column-large {
