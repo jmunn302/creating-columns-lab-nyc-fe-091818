@@ -85,7 +85,7 @@ img:hover {
 
 .column {
   display: inline-block;
-  width: auto;
+  width: 33%;
   vertical-align: bottom;
   margin: 0 auto;
 }
