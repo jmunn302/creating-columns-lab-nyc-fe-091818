@@ -86,11 +86,12 @@ img:hover {
 .column {
   display: inline-block;
   width: 30%;
-  vertical-align: top;
+  vertical-align: bottom;
 }
 
 .image-small {
   width: 100%;
+  display: inline-block;
 }
 
 .image-large {
@@ -99,7 +100,7 @@ img:hover {
 
 .image-medium {
   width: 200%;
-  display: block;
+  display: inline-block;
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
