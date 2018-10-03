@@ -83,7 +83,7 @@ img:hover {
 }
 
 .column {
-  display: inline;
+  display: inline-block;
   width: 30%;
 }
 
